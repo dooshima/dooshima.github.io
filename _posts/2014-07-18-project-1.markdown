@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2023-04-16
+img: granny.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2022
+client: Dooshima Games
+category: Mobile Game, Unity
+description: Keep granny alive! Avoid enemies and pickup collectibles gems and keys in order to unlock the portals,<a href = "https://play.unity.com/mg/other/my-new-microgame-7416">Web Link </a>, 
+ <a href = "https://dooshima.itch.io/granny-dont-die">itch.io link </a>. 
 ---
