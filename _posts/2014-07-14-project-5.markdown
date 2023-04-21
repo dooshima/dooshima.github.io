@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2023-04-16
-img: dragon.png
+img: dragon.gif
 alt: image-alt
 project-date: March 2023
 client: Dooshima Games
