@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date:  2023-04-16
-img: Twodrunner.png
+img: Twodrunner.gif
 alt: image-alt
 project-date: July 2022
 client: Dooshima Games
