@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date:  2023-08-10
+img: Hd.png
+alt: image-alt
+project-date: September 2023
+client: Dooshima Games
+category: Web Game, Unreal Engine
+description: A 2d-3d hybrid shooter with unreal engine paper2d.<iframe frameborder="0" <iframe frameborder="0" src="https://itch.io/embed/2303077?linkback=true&amp;dark=true" width="552" height="167"><a href="https://dooshima.itch.io/mr-solider">Mr Solider by dooshima</a></iframe> <a href="https://dooshima.itch.io/mr-solider"> <br>2d-3d shooter by dooshima</a></iframe>.
+---
